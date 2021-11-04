@@ -1,5 +1,5 @@
 package votes;
 
-public class Seggio {
+public class Vote {
 
 }
